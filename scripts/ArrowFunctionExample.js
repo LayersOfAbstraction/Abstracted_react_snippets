@@ -1,5 +1,5 @@
 const testFunction = () => 'hello there.';
-testFunction();
+//testFunction();
 
 ReactDOM.render(React.createElement(testFunction, {
 
